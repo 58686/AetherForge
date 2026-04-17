@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/assets/preview_warp.png" alt="AetherForge Logo" width="100%" />
+  <img src="public/assets/preview_holo.png" alt="AetherForge Logo" width="100%" />
 
   <h1>🌌 AetherForge </h1>
   <p><strong>A Next-Gen, Audio-Reactive WebGPU Universe</strong></p>
@@ -37,7 +37,7 @@ A custom-built Canvas API UI panel parses the 64-band frequency output outside o
 <br>
 
 <div align="center">
-  <img src="public/assets/preview_holo.png" alt="AetherForge Holographic Monoliths" width="90%" />
+  <img src="public/assets/preview_warp.png" alt="AetherForge Warp Drive" width="90%" />
 </div>
 
 <br>
